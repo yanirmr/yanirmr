@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, you've reached Yanir's Git! <br>.
+
+#### :raising_hand: About me:
+I'm an algorithm developer and machine-learning engineer.<br>
+My likes are algorithms, artificial intelligence (computer vision, language processing, speech recognition, etc.), and computational applications for humanities researches.<br>
+
+#### :house: Work:
+I work at Weizmann Institute of Science, doing some very fascinating stuff with algorithms for speech analysis.<br>
 
 <!--
 **yanirmr/yanirmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
