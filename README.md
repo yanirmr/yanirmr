@@ -1,10 +1,10 @@
-# Hi, you've reached Yanir's Git! <br>.
+# Hi, you've reached Yanir's Git! <br>
 
 #### :raising_hand: About me:
 I'm an algorithm developer and machine-learning engineer.<br>
 My likes are algorithms, artificial intelligence (computer vision, language processing, speech recognition, etc.), and computational applications for humanities researches.<br>
 
-#### :house: Work:
+#### :computer: Work:
 I work at Weizmann Institute of Science, doing some very fascinating stuff with algorithms for speech analysis.<br>
 
 <!--
